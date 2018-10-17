@@ -20,7 +20,7 @@
     "warmup_steps": 4000,
     "lr_decay": 0.5,
     "decay_step": 100000,
-    "batch_size": 64,
+    "batch_size": 128,
     "eval_batch_size":-1,
     "r": 5,
     "wd": 0.0001,
